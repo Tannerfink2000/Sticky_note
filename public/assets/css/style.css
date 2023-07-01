@@ -1,0 +1,17 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .container {
+    text-align: center;
+    margin-top: 80px;
+  }
+  
+  .display-4 {
+    margin-bottom: 1rem;
+  }
+  
+  .btn-primary {
+    margin-top: 1.5rem;
+  }
+  

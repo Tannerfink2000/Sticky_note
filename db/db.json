@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "title": "First Note",
+        "text": "This is the content of my first note."
+    },
+    {
+        "id": "2",
+        "title": "Second Note",
+        "text": "This is the content of my second note."
+    },
+    {
+        "title": "First step",
+        "text": "i am coding",
+        "id": "5d98b31f-508b-4270-81f7-4b4383aed806"
+    }
+]
